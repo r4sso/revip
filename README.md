@@ -1,5 +1,5 @@
 # revip
-Reverse IP
+*** Reverse IP using HackerTarget API ***
 
 ### How To Run?
 ```
