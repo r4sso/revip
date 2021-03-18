@@ -1,3 +1,4 @@
 # revip
-##Requirement
-###python3
+## Requirement
+-python3
+-pip3
