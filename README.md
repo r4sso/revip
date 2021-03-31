@@ -11,4 +11,4 @@ python3 revip.py
 ```
 
 #### Requirements
-- PYTHON3
+- Python 3
